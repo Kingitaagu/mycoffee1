@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+}
+
+body {
+  color: white;
+}
+h1 {
+  font-size: 50px;
+  border-bottom: 4mm ridge rgb(170, 50, 220, 0.6);
+}
+p {
+  font-size: 20px;
+}
+p {
+  color: white;
+}
+
+.mydiv {
+  border-style: dotted;
+  border-width: 2px;
+}
+.mydiv {
+  width: 100px;
+  height: 100px;
+}
+.mydiv {
+  font-size: 15px;
+}

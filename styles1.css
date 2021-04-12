@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+
+body {
+  color: white;
+}
+
+label {
+  padding-right: 10px;
+  font-size: 1rem;
+}
+
+.Div {
+border-bottom: 4mm ridge rgb(170, 50, 220, .6);
+}
+
+p {
+   background-color: white;
+   color: black;
+}
+
+p {
+    border-radius: 150rem;
+}
